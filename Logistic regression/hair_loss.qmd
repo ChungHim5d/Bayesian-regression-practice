@@ -1,8 +1,8 @@
 ---
-title: "Datacamp project: What determines hair loss? A Bayesain logistic regression analysis"
+title: "Datacamp project: What determines hair loss? A Bayesian logistic regression analysis"
 author: "Chung Him Au-Yeung"
 date: "06/12/2024"
-format: html
+format: pdf
 editor: visual
 ---
 
